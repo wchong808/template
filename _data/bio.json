@@ -58,10 +58,9 @@
       "keywords": [
         "C",
         "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python",
+        "HTML",
+        "LabView",
       ]
     },
     {
@@ -69,17 +68,16 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
+        "WindowsOS",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "g++"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Engineering (expected Fall, 2017)",
       "studyType": "B.S.",
       "startDate": "2013-09-01",
       "endDate": "Present",

@@ -59,6 +59,7 @@
         "C",
         "C++",
         "Python",
+        "Flask",
         "HTML",
         "LabView",
       ]
@@ -82,60 +83,66 @@
       "startDate": "2013-09-01",
       "endDate": "Present",
       "gpa": "",
-      "courses": [
+      "courses": [ "Object Oriented Programming", "Circuit Analysis", "Digital Design", "Signal and System Analysis", 
+                  "Microelectronic Circuits", "Physical Electronic", "Probability & Statistics", "Digital System & Computer Design", 
+                  "Computer Data Structure & Algorithm", "Engineering Electromagnetics", "Operating Systems", 
+                  "Data Storage and Retrieval", "Software Engineering" "Introduction to Biomedical and Clinical Engineering"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "World Wide Technology",
+      "position": "Engineering Student Intern",
+      "website": "https://www2.wwt.com/",
+      "startDate": "2017-05-31",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Designed web application and studied network protocols",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Created a web application using the Meraki API, Flask framework and Python to configure Meraki Switches in bulk ",
+        "Measured data usage across multiple local school netweoks using Cacti monitoring tool"
+        "Automated network processes through practing agile development in writing python scripts"
+        "Assisted the Professional Services team in developing test networks and deployment of UC tools"
+        "Shadowed network engineers to identify wants and demands of federal and commercial customers while working with OEMs and other professional partners to optimize their networks"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "University of Hawaii at Manoa Student Housing Services",
+      "position": "Community Desk Coordinator",
+      "website": "https://manoa.hawaii.edu/housing/",
+      "startDate": "2014-10-01",
+      "endDate": "2017-05-25",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Created new protocols to ensure proper procedures were carried out",
+        "Synchronized with other coordinators to provide a safe and healthy environment for residents"
+        "Trained new coordinators in proper community protocols"
       ]
     },
     {
-      "organization": "",
+      "company": "Rice University",
+      "position": "Research Assistant",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "startDate": "2015-05-20",
+      "endDate": "2017-05-20",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+         "Studied law and business contracts, specially regarding regulations on loans for companies"
+         "Individually worked on searching database for details regarding regulations and protocols"
+         "Teamed up with graduate students on searching for new details regarding mandatory control over loans"
+      ]
+    },
+    {
+      "company": "Mankwan Wong M.D. LLC",
+      "position": "Drug Rep",
+      "website": "",
+      "startDate": "2015-01-05",
+      "endDate": "2015-05-20",
+      "summary": "",
+      "highlights": [
+        "Established new guidelines on submitting forms to drug companies requesting medications"
+        "Gained extensive knowledge on protocols regarding new medications and their uses"
+        "Collaborated with drug representatives to ensure that patients get the most updated care loans"
       ]
     }
   ],
@@ -145,12 +152,6 @@
       "date": "2013-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
   "references": [

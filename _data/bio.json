@@ -49,6 +49,11 @@
       "keywords": [
       ]
     }
+    {
+      "name": "network engineering",
+      "keywords": [
+      ]
+    }
   ],
   "skills": [
     {
@@ -82,10 +87,19 @@
       "startDate": "2013-09-01",
       "endDate": "Present",
       "gpa": "",
-      "courses": [ "Object Oriented Programming", "Circuit Analysis", "Digital Design", "Signal and System Analysis", 
-                  "Microelectronic Circuits", "Physical Electronic", "Probability & Statistics", "Digital System & Computer Design", 
-                  "Computer Data Structure & Algorithm", "Engineering Electromagnetics", "Operating Systems", 
-                  "Data Storage and Retrieval", "Software Engineering" "Introduction to Biomedical and Clinical Engineering"
+      "courses": [ "Object Oriented Programming", 
+                  "Circuit Analysis", "Digital Design", 
+                  "Signal and System Analysis", 
+                  "Microelectronic Circuits", 
+                  "Physical Electronic", 
+                  "Probability & Statistics", 
+                  "Digital System & Computer Design", 
+                  "Computer Data Structure & Algorithm", 
+                  "Engineering Electromagnetics", 
+                  "Operating Systems", 
+                  "Data Storage and Retrieval", 
+                  "Software Engineering" ,
+                  "Introduction to Biomedical and Clinical Engineering"
       ]
     }
   ],

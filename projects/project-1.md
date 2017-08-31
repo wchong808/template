@@ -1,27 +1,27 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: VIP
-permalink: projects/micromouse
-date: 2015
+image: images/UHMicrorobot2.png
+title: Microrobotics
+permalink: projects/microrobots
+date: 2016
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Microfrabrication
+  - Optical Tweezers
+  - LabView
+summary: My team developed a program to control microrobots under the microscope.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/UHMicrorobot2.png">
+  <img class="ui image" src="../images/imageprocesing.PNG">
+  <img class="ui image" src="../images/opticalTweezer.png">
+  <img class="ui image" src="../images/tabs.PNG">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+The problem of organ transplant rejection rates are high and that's where microrobots can come into help. The purpose of this project is to create aritfical organs in the end from a patients own cells. The Microrobotics Vertically Integrated Project at University of Hawaii at Mānoa has developed robots that operate on a microscopic scale that can be used to move around objects of the same scale, therefore they are ideally able to control the location of cell growth and help grow tissue and organs. These robots are used in research projects in which they are controlled by lasers operated by a computer program. 
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+For this project, I was the lead programmer who was responsible for programming the various functionalities of the program to control the microrobots. The program that was used was recently written from another University and professor that specialized in optical tweezers. Our teams was tasked with implementing functions to fully optimizze the program for full control of the microrobots that we made. I started by programing an image processing module for the program so that the program can capture the image under the microscope and the user would be able to tell the robots where to go. I first started with the captured image from the microscope. Then using some of the features in Labview, the image is then passed through and intensified and returns an image that identifies where the robot is. After this the identification of the robot is noted by the computer by the pixels and axis of it's location. From there the program is able to move the robot into a new potion if it needs by the user.  The project is a vertically integrated project which means that it is an on-going project within the semesters at the University of Hawaii. We will be working on implementing another module which tells the robots what shapes to form to surround an object called caging. 
 
 You can learn more at the [UH Microdevices & Microfluidics Lab](http://ee.hawaii.edu/~aohta/research.html).
 

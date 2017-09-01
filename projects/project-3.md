@@ -15,7 +15,7 @@ summary: A text adventure game I developed for ICS 313.
 
 <<div class="ui small rounded images">
   <img class="ui image" src="../images/embryo1.png">
-  <img class="ui image" src="../images/embryo2.png">
+  <img class="ui image" src="../images/embryo2.PNG">
   <img class="ui image" src="../images/embryo3.png">
 </div>
 

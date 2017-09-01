@@ -2,9 +2,9 @@
 layout: project
 type: project
 image: images/embryo1.png
-title: Cotton
-permalink: projects/cotton
-date: 2014
+title: Embryo Tracking
+permalink: projects/embryo
+date: 2016
 labels:
   - Labview
   - Image Processing

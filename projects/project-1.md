@@ -13,10 +13,10 @@ summary: My team developed a program to control microrobots under the microscope
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/UHMicrorobot2.png">
-  <img class="ui image" src="../images/imageprocesing.PNG">
-  <img class="ui image" src="../images/opticalTweezer.png">
-  <img class="ui image" src="../images/tabs.PNG">
+  <img class="ui image" src="../images/microrobot.png">
+  <img class="ui image" src="../images/microrobot_image.PNG">
+  <img class="ui image" src="../images/microrobot_optical.png">
+  <img class="ui image" src="../images/microrobot_tabs.PNG">
 </div>
 
 The problem of organ transplant rejection rates are high and that's where microrobots can come into help. The purpose of this project is to create aritfical organs in the end from a patients own cells. The Microrobotics Vertically Integrated Project at University of Hawaii at Mānoa has developed robots that operate on a microscopic scale that can be used to move around objects of the same scale, therefore they are ideally able to control the location of cell growth and help grow tissue and organs. These robots are used in research projects in which they are controlled by lasers operated by a computer program. 

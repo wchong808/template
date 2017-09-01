@@ -10,7 +10,7 @@ labels:
   - Image Processing
   - Syringe Pump
   - Biomedical Engineering
-summary: A text adventure game I developed for ICS 313.
+summary: A program that can automate the process of determining if an embryo is healthy.
 ---
 
 <<div class="ui small rounded images">

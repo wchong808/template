@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/UHMicrorobot2.png
+image: images/microrobot.png
 title: Microrobotics
 permalink: projects/microrobots
 date: 2016

@@ -21,4 +21,4 @@ Vacay is implemented using [Flask] (http://flask.pocoo.org/), a microframework f
 
 In this project I gained experience with full-stack web application design and associated technologies, including the Flask Framework for the user interface and linking pages within HTML and Python, and Python for both client and server-side programming. 
  
-Source: <a href="https://github.com/storybook808/Meraki-Bulk-Configuration-Tool"><i class="large github icon"></i>Meraki-Bulk-Configuration-Tool</a>
+Source: <a href="https://github.com/storybook808/Meraki-Bulk-Configuration-Tool"> <i class="large github icon"> </i>Meraki-Bulk-Configuration-Tool</a>

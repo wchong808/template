@@ -13,7 +13,7 @@ labels:
 summary: A program that can automate the process of determining if an embryo is healthy.
 ---
 
-<<div class="ui small rounded images">
+<div class="ui small rounded images">
   <img class="ui image" src="../images/embryo1.png">
   <img class="ui image" src="../images/embryo2.PNG">
   <img class="ui image" src="../images/embryo3.png">

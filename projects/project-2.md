@@ -1,14 +1,14 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
-date: 2015
+image: images/Meraki-square.png
+title: Meraki Switch Configuration
+permalink: projects/merakiswitchconfig
+date: 2017
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
+  - Python
+  - Flask
+  - Excel
   - GitHub
 summary: An interactive web application for Meraki Switch Configurations.
 ---
@@ -19,6 +19,6 @@ Meraki Bulk Configuration is a web application that I helped create as a team pr
 
 Vacay is implemented using [Flask] (http://flask.pocoo.org/), a microframework for Python. Within three weeks, we created a website that implements configuration of multiple switches with one click .
 
-In this project I gained experience with full-stack web application design and associated technologies, including the Flask Framework for the user interface and linking pages within HTML and Python, and Python for both client and server-side programming. 
+In this project I gained experience with full-stack web application design and associated technologies, including the Flask Framework for the user interface and linking pages within HTML and Python, and Python for both client and server-side programming. From downloading configuration in an excel file. You can change the configurations, then uploaded to the site and with the click of one button, all the configirations are then loaded onto your network switch. 
  
 Source: <a href="https://github.com/storybook808/Meraki-Bulk-Configuration-Tool"> <i class="large github icon"> </i>Meraki-Bulk-Configuration-Tool</a>

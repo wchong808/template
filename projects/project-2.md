@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/IJW_square.PNG
+image: images/IJW_square(1).PNG
 title: Meraki Switch Configuration
 permalink: projects/merakiswitchconfig
 date: 2017

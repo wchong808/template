@@ -24,23 +24,23 @@ Admins can monitor the site for inapporopriate content, make sure that people ar
 
 ## Mockup page ideas
 Some possbile mockup pages include: 
-*Public Landing page
-*Login page
-*User home page
-*Admin home page
-*User profile page
-*Browse by distance, similarities, classes, schedule, etc.
+* Public Landing page
+* Login page
+* User home page
+* Admin home page
+* User profile page
+* Browse by distance, similarities, classes, schedule, etc.
 
 ## Use case ideas
 Whether or not the following bullet points list all pages or not, the completed use case should show an end-to-end scenario of using the system.
 
-*New user goes to landing page, logs in, gets home page, sets up profile. (How do they learn how system works?)
-*Admin goes to landing page, logs in, gets home page, edits site.
-*User goes to landing page, logs in, looks for student within a specified radius.
+* New user goes to landing page, logs in, gets home page, sets up profile. (How do they learn how system works?)
+* Admin goes to landing page, logs in, gets home page, edits site.
+* User goes to landing page, logs in, looks for student within a specified radius.
 
 ## Beyond the basics
 After implementing the basic functionality, here are ideas for more advanced features:
 
-*Creating some sort of compensation for drivers that have driven a lot (bookstore gift cards, jamba juice gift card, free parking)
-*Rating system in drivers and riders to show who is a good driver and rider
-*Banning drivers/riders if they are fall below threshold of rating
+* Creating some sort of compensation for drivers that have driven a lot (bookstore gift cards, jamba juice gift card, free parking)
+* Rating system in drivers and riders to show who is a good driver and rider
+* Banning drivers/riders if they are fall below threshold of rating
